@@ -1,0 +1,6 @@
+%YAML 1.2
+---
+name: agoncal/agoncal-application-petstore-ee6
+friendly_name: Petstore
+home: README.md
+spec: true

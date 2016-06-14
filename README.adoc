@@ -1,0 +1,31 @@
+= microprofile.io Configuration Project
+
+This project holds all the configuration and editable content of the projects published at https://microprofile.io/.
+
+In order to preview the pages locally, execute
+
+    mvn package
+
+Afterwards, adoc files in `pages` folder will be available in `target/generated-adoc/pages/`
+
+== Pages
+
+Site pages are configured by files in `pages` folder. They can be in any markup supported by GitHub, but adoc format is preferred.
+
+=== Page configuration files
+
+A page is configured by:
+
+ - markup file (e.g. `.adoc`) - it defines the page body and name
+ - yaml file (e.g. `.adoc.yaml`) - it has the same name as the markup file plus `.yaml`, defines additional attributes of the page in yaml format
+
+Yaml configuration contains:
+
+- h1 - main header of the page
+- h2 - secondary (longer) header of the page
+
+=== ADOC syntax specific
+
+==== Links to other pages
+
+When referring to another page, always use external links, such as `\link:mission.adoc[microprofile.io]`. Otherwise the links will not work in the application.
