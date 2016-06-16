@@ -13,5 +13,3 @@ Aenean vitae diam a urna maximus pretium. Nulla non maximus massa.
 - nisl iaculis eu
 - nisl iaculis eu
 - non ullamcorper egestas
-
-include::footer.adoc[]
