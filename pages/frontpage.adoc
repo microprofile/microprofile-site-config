@@ -1,20 +1,17 @@
 = Let's build kick-ass Java EE community!
 
-This is a community-driven site to gather relevant information about
-Java EE ecosystem, including:
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec eleifend
+turpis massa, id aliquam risus sollicitudin a. Integer hendrerit quis lectus
+eget placerat. Sed sem tellus, sodales non quam a, blandit ultrices sem.
+Aenean vitae diam a urna maximus pretium. Nulla non maximus massa.
 
-- Quickstarts
-- Tutorials
-- Maven and build archetypes
-- Screencasts
-- Reference architectures
-- Videos
-- Training references
-- Java EE 8 specification requests
-- And much more...
-
-We aim to grow the community, improve developer efficiency, and provide
-echnical capabilities that address modern application requirements,
-all with a cohesive architectural approach that Java EE provides.
+- auctor id
+- semper pellentesque
+- laoreet
+- penatibus et magnis
+- euismod
+- nisl iaculis eu
+- nisl iaculis eu
+- non ullamcorper egestas
 
 include::footer.adoc[]
