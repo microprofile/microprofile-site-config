@@ -1,4 +1,4 @@
-= Let's build kick-ass Java EE community!
+= Lorem ipsum dolor sit amet
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec eleifend
 turpis massa, id aliquam risus sollicitudin a. Integer hendrerit quis lectus
