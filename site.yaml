@@ -1,0 +1,13 @@
+%YAML 1.2
+---
+projects:
+  - eclipse/microprofile-samples
+  - eclipse/microprofile-conference
+  - eclipse/microprofile
+  - eclipse/microprofile-config
+  - eclipse/microprofile-evolution-process
+  - eclipse/microprofile-fault-tolerance
+  - eclipse/microprofile-sandbox
+  - eclipse/microprofile-health
+  - eclipse/microprofile-jwt-auth
+  - tveronezi/microprofile-site-config
