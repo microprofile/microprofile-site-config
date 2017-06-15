@@ -10,4 +10,4 @@ projects:
   - eclipse/microprofile-sandbox
   - eclipse/microprofile-health
   - eclipse/microprofile-jwt-auth
-  - tveronezi/microprofile-site-config
+  
