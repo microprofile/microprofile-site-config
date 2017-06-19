@@ -10,4 +10,5 @@ projects:
   - eclipse/microprofile-sandbox
   - eclipse/microprofile-health
   - eclipse/microprofile-jwt-auth
+  - eclipse/microprofile-bom
   
