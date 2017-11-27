@@ -12,4 +12,8 @@ projects:
   - eclipse/microprofile-jwt-auth
   - eclipse/microprofile-bom
   - eclipse/microprofile-metrics
+  - eclipse/microprofile-open-api
+  - eclipse/microprofile-rest-client
+  - eclipse/microprofile-opentracing
+  - eclipse/microprofile-parent
   
