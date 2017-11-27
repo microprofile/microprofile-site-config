@@ -15,5 +15,5 @@ projects:
   - eclipse/microprofile-open-api
   - eclipse/microprofile-rest-client
   - eclipse/microprofile-opentracing
-  
+  - eclipse/microprofile-parent
   
