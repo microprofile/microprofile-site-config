@@ -15,5 +15,13 @@ projects:
   - eclipse/microprofile-open-api
   - eclipse/microprofile-rest-client
   - eclipse/microprofile-opentracing
+  - eclipse/microprofile-reactive-streams
+  - eclipse/microprofile-reactive-messaging
+  - eclipse/microprofile-lra
+  - eclipse/microprofile-service-mesh
+  - eclipse/microprofile-service-mesh-service-a
+  - eclipse/microprofile-service-mesh-service-b
+  - eclipse/microprofile-concurrency
+  - eclipse/microprofile-starter
   - eclipse/microprofile-parent
   
