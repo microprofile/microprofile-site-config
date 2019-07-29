@@ -21,7 +21,7 @@ projects:
   - eclipse/microprofile-service-mesh
   - eclipse/microprofile-service-mesh-service-a
   - eclipse/microprofile-service-mesh-service-b
-  - eclipse/microprofile-concurrency
+  - eclipse/microprofile-context-propagation
   - eclipse/microprofile-starter
   - eclipse/microprofile-parent
   
